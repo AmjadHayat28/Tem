@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Corrected the event listener for yesBtn
     yesBtn.addEventListener("click", () => {
-        heading.innerHTML = "I knew it tema  🤭 <br/> I love you too 🥰 "
+        heading.innerHTML = "I knew it tema  🤭 <br/> 🥰🥰"
         yesBtn.style.display="none";
         noBtn.style.display="none";
     });

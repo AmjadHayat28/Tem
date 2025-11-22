@@ -15,10 +15,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Corrected the event listener for yesBtn
     yesBtn.addEventListener("click", () => {
-        heading.innerHTML = "I knew it 🤭 <br/> 😅😂"
+        heading.innerHTML = "I knew it 🤭 <br/> 😅😂😂"
         yesBtn.style.display="none";
         noBtn.style.display="none";
     });
 });
+
 
 
